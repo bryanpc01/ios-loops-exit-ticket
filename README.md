@@ -27,6 +27,8 @@ for number in 4..<8{
 print(myNum)
 ```
 
+**The code print 23 because 8 + 4 + 5 + 6**
+
 ***
 ## Question 2
 
@@ -39,14 +41,14 @@ for i in 1..<100 {
 }
 ```
 
-B)
+**B)**
 ```swift
 for j in 1...100 {
     print(j)
 }
 ```
 
-C)
+**C)**
 ```swift
 for k in 1..<1000 where k < 101 {
     print(k)
@@ -72,13 +74,13 @@ for _ in 1...10{
     }
 }
 ```
-
+**This code will print nesting 100 times**
 ***
 ## Question 4
 
 Which of the loops below will run forever? Select all that apply.
 
-a)
+**a)**
 ```swift
 var q = 0
 
@@ -108,7 +110,7 @@ while 3 != 3 {
 }
 ```
 
-d)
+**d)**
 ```swift
 var t = 0
 
